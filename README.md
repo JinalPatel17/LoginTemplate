@@ -20,7 +20,7 @@ Step 4) Enjoy. Happy codding.
           
 Background animation thanks to Roland Warmerdam. Check out his work https://codepen.io/Rowno 
 
->>>>**Fork or star My repo and follow me on github.**<<<<<
+**Fork or star My repo and follow me on github.**
 
 **Thank you!!!🥰❤**
        
