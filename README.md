@@ -14,7 +14,7 @@ Step 2) There are some dependencies of this code such as Google Fonts, CDnJS. So
         <script> tag "src" location). Also, there are no action or no href set to submit <button> tag in both HTML page, you have to do it yourself.
         Signup Page has check box of term and condition, which can be removed eassily in HTML. 
           
-Step 3) There is <footer> tag which includes owner name and github profile link, remove it otherwise change to your's preference. The icon of page is from copyrights             free site so feel free to keep it or change it.
+Step 3) There is ( <footer> ) tag which includes owner name and github profile link, remove it otherwise change to your's preference. The icon of page is from copyrights             free site so feel free to keep it or change it.
 
 Step 4) Enjoy. Happy codding.
           
