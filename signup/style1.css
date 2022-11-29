@@ -1,8 +1,8 @@
 #bgdy {
     -webkit-animation: theme 21s linear infinite;
             animation: theme 21s linear infinite;
-  }
-  #bgdy:after, #bgdy:before {
+}
+#bgdy:after, #bgdy:before {
     content: "";
     display: block;
     position: fixed;
@@ -13,75 +13,75 @@
     width: 100vmax;
     height: 100vmax;
     background: rgba(0, 0, 0, 0.05);
-    -webkit-animation: background 90s linear infinite;
-            animation: background 90s linear infinite;
-  }
-  #bgdy:after {
+    -webkit-animation: background 30s linear infinite;
+            animation: background 30s linear infinite;
+}
+#bgdy:after {
     left: 15vw;
-  }
-  #bgdy:before {
+}
+#bgdy:before {
     right: 15vw;
-    -webkit-animation-delay: -30s;
-            animation-delay: -30s;
+    -webkit-animation-delay: -15s;
+            animation-delay: -15s;
     animation-direction: reverse;
-  }
+}
   
-  @-webkit-keyframes theme {
+@-webkit-keyframes theme {
     0% {
-      background: #74c390;
+      background: #5cd887;
     }
     16% {
-      background: #5dbdb6;
+      background: #3fc5bc;
     }
     33% {
       background: #59d4e1;
     }
     50% {
-      background: #51bce8;
+      background: #8924e7;
     }
     66% {
-      background: #fa5374;
+      background: #ba02ca;
     }
     83% {
-      background: #e46653;
+      background: #851a43;
     }
     100% {
-      background: #74c390;
+      background: #46d478;
     }
-  }
+}
   
-  @keyframes theme {
+@keyframes theme {
     0% {
-      background: #74c390;
+      background: #5cd887;
     }
     16% {
-      background: #5dbdb6;
+      background: #3fc5bc;
     }
     33% {
       background: #59d4e1;
     }
     50% {
-      background: #51bce8;
+      background: #8924e7;
     }
     66% {
-      background: #fa5374;
+      background: #ba02ca;
     }
     83% {
-      background: #e46653;
+      background: #851a43;
     }
     100% {
-      background: #74c390;
+      background: #46d478;
     }
-  }
-  @-webkit-keyframes background {
+}
+@-webkit-keyframes background {
     0% {
       transform: rotate(0deg);
     }
     100% {
       transform: rotate(360deg);
     }
-  }
-  @keyframes background {
+}
+@keyframes background {
     0% {
       transform: rotate(0deg);
     }
