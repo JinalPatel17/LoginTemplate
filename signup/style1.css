@@ -106,7 +106,7 @@ body{
     overflow: hidden;
     margin: 0;
 }
-.container{
+.container_jinx{
     background-color: #393e467d;
     padding: 20px 40px;
     border-radius: 5px;
@@ -114,13 +114,13 @@ body{
     width: 400px;*/
 }
 
-.container h1 {
+.container_jinx h1 {
     text-align: center;
     margin-bottom: 30px;
 
 }
 
-.container a {
+.container_jinx a {
     text-decoration: none;
     color: lightblue;
 }
